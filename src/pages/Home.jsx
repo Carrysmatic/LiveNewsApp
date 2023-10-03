@@ -36,7 +36,7 @@ const Home = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/Vishal-beep136/WhosThat"
+              href="https://github.com/Carrysmatic/WhosThatPokemon"
             >
               <Button type="unfill" text="Github" />
             </a>
@@ -57,7 +57,6 @@ const Home = () => {
             <button className="play__btn">Play</button>
           </Link>
 
-          <h1 className="left__side-play__now-outline">Play Now</h1>
         </div>
 
         <div className="home__container-right__side">
