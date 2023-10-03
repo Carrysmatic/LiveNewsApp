@@ -31,7 +31,7 @@ const Home = () => {
       <div className="navbar__container">
         <div className="blurred_shadow"></div>
         <div className="navbar">
-          <h1 className="logo">Who's That</h1>
+          <h1 className="logo"></h1>
           <div className="button__holders">
             <a
               target="_blank"
