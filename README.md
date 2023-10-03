@@ -1,38 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Banner](https://user-images.githubusercontent.com/82146140/182009172-8d3d3320-33cf-42e2-8a10-2e2df013c943.png)
 
-## Getting Started
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90060de6-ff31-4ce1-b016-7e8385fd0ee6/deploy-status)](https://whos-that.netlify.app/)
 
-First, run the development server:
+# Who's That 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+Who's That is a simple react js game where you have choose which pokemon match from shadow!
+
+#### Tech Stacks Used
+
+⭐ Pokeapi <br>
+⭐ Javascript <br>
+⭐ Css <br>
+⭐ Html <br>
+
+
+## Preview 
+
+> ![Screenshot 2022-07-31 104712](https://user-images.githubusercontent.com/82146140/182011667-8dd4e6e0-b5ca-4039-b512-4c6c92f8d4f0.png)
+
+> ![Screenshot 2022-07-31 104943](https://user-images.githubusercontent.com/82146140/182011680-523e819d-2086-4a5d-a223-14cbb15a1d11.png)
+
+> ![Screenshot 2022-07-31 105002](https://user-images.githubusercontent.com/82146140/182011691-1a8e1a4c-20dd-4f8e-9fb2-f89f0ca5f67d.png)
+
+## Get Started
+
+First clone this or forked repo -
+
+```
+git clone https://github.com/Vishal-beep136/WhosThat.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then install required dependencies or packages -
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
+npm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+or
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+yarn install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+In the project directory, you can run:
 
-## Learn More
+### `npm start`
 
-To learn more about Next.js, take a look at the following resources:
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The page will reload when you make changes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+# License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   Copyright 2022 Vishal
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+   
+   ```
+
+
